@@ -40,4 +40,6 @@ This task simulates real-world DevOps practices like:
 ## 🙌 Acknowledgments
 Thanks to **Elevate Labs** for providing structured DevOps learning opportunities and practical hands-on tasks.
 
+<img width="1440" alt="Screenshot 2025-04-16 at 12 37 00 AM" src="https://github.com/user-attachments/assets/0da60449-5fe3-41a7-9160-3b1884e19671" />
+<img width="1440" alt="Screenshot 2025-04-16 at 12 38 58 AM" src="https://github.com/user-attachments/assets/17b888b9-b6bb-4898-8df2-df3923320fbb" />
 
